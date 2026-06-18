@@ -20,9 +20,8 @@ Student • Web Developer • Git Enthusiast
 - 🌱 Learning modern web technologies
 - 💻 Interested in:
   - Git & GitHub
-  - HTML5 & CSS3
-  - Web Hosting
-  - Domain Management
+  - HTML & CSS
+  - Domain Hosting
 - 🔭 Building personal projects and improving my coding skills
 - ⚡ Passionate about technology and continuous learning
 
