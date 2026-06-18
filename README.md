@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A. G. I. Anupama</h1>
+<h1 align="center">Hi 👋, I'm Imasha Anupama</h1>
 
 <h3 align="center">
 Student • Web Developer • Git Enthusiast
